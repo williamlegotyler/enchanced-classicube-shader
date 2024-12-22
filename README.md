@@ -15,10 +15,13 @@ Here are some screenshots took in-game with the shader on:
 If you use this shader i suggest you to change this settings in classicube to get the best out of this shader:
 
 Graphics options:
+
 •Lightning mode:fancy
+
 •Smooth lightning:on 
 
 Env settings:
+
 •Clouds height:10000
 
 Hope you like this shader! 
