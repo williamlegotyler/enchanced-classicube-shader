@@ -23,6 +23,8 @@ Graphics options:
 
 •Smooth lightning:on 
 
+•Shadow:SnapToBlock
+
 Env settings:
 
 •Clouds height:10000
