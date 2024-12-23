@@ -1,4 +1,3 @@
-![Screenshot_20241223-190645](https://github.com/user-attachments/assets/aa6d8b81-7c46-4902-aa31-c36abf275427)
 # enchanced classicube shader
 This is a texture pack for classicube ment to recreate the look and feelings of a shader,just like the shaders on minecraft,to me it looks pretty good,the enchanchments are:
 
@@ -15,6 +14,7 @@ Here are some screenshots took in-game with the ultra version of this shader on:
 ![Screenshot_20241223-184750](https://github.com/user-attachments/assets/810d174a-366f-4389-ae86-f6f8f9ee3789)
 ![Screenshot_20241223-184900](https://github.com/user-attachments/assets/92a49100-bb15-444c-b7b3-a2c057363605)
 ![Screenshot_20241223-184939](https://github.com/user-attachments/assets/63e3e2e8-9540-457b-a547-4d5318817481)
+![Screenshot_20241223-190645](https://github.com/user-attachments/assets/aa6d8b81-7c46-4902-aa31-c36abf275427)
 
 If you use this shader i suggest you to change this settings in classicube to get the best out of this shader:
 
