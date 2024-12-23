@@ -1,3 +1,4 @@
+![Screenshot_20241223-190645](https://github.com/user-attachments/assets/aa6d8b81-7c46-4902-aa31-c36abf275427)
 # enchanced classicube shader
 This is a texture pack for classicube ment to recreate the look and feelings of a shader,just like the shaders on minecraft,to me it looks pretty good,the enchanchments are:
 
