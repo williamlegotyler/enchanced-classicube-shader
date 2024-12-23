@@ -25,8 +25,4 @@ Graphics options:
 
 •Shadow:SnapToBlock
 
-Env settings:
-
-•Clouds height:10000
-
 Hope you like this shader! 
