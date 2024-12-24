@@ -25,6 +25,6 @@ Graphics options:
 
 •Shadow:SnapToBlock
 
-To install the latest update of this shader go on the releases section and download the latest version.
+To download the latest update of this shader go on the releases section and download the latest version.
 
 Hope you like this shader! 
