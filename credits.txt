@@ -1,4 +1,7 @@
 •Shader made by williamlegotyler .
 •Skybox got from skyboxes.weebly.com.
-•Thanks to bonzibuddy5132 for making the pixel bleeding bug much less visible.
-•Thanks again to bonzibuddy5132 for helping me to reshade fire and lava to get a bloom like effect.
+
+Big thanks to bonzibuddy5132:
+•Made the pixel bleeding bug much less visible.
+•Helping me to reshade fire and lava to get a bloom like effect.
+•Helping with some minor image editing on the new waving leaves effect on the animations.png
