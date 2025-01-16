@@ -7,6 +7,8 @@ This is a texture pack for classicube ment to recreate the look and feelings of 
 
 •high quality skybox
 
+•waving leaves
+
 Here are some screenshots took in-game with the ultra version of this shader on:
 ![Screenshot_20241223-184456](https://github.com/user-attachments/assets/457d1f1e-6ec4-420d-8a69-7b1942e6675e)
 ![Screenshot_20241223-184535](https://github.com/user-attachments/assets/ff6f85b0-fca8-4e51-bb3f-12b678084086)
